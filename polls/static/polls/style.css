@@ -1,0 +1,12 @@
+ul.a {
+    color: green;
+    font-size: 195%;
+    list-style: decimal;
+
+}
+
+body {
+
+    background: white url("images/bg2.gif") no-repeat;
+    background-size: 17in 9in;
+}
